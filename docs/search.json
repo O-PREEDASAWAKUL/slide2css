@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "test1.html#quarto",
+    "href": "test1.html#quarto",
+    "title": "t2",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "test1.html#bullets",
+    "href": "test1.html#bullets",
+    "title": "t2",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "test1.html#code",
+    "href": "test1.html#code",
+    "title": "t2",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  },
+  {
+    "objectID": "test1.html#pict-test",
+    "href": "test1.html#pict-test",
+    "title": "t2",
+    "section": "pict test",
+    "text": "pict test"
+  }
+]
