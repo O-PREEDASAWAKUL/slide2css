@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "test1.html#quarto111",
-    "href": "test1.html#quarto111",
+    "objectID": "test1.html#ตวอยางการนำเสนอ",
+    "href": "test1.html#ตวอยางการนำเสนอ",
     "title": "t2",
-    "section": "Quarto111",
-    "text": "Quarto111\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+    "section": "ตัวอย่างการนำเสนอ",
+    "text": "ตัวอย่างการนำเสนอ\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
   },
   {
     "objectID": "test1.html#bullets",
